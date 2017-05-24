@@ -1,1 +1,1 @@
-# gui-test
+#git-gui-internal
